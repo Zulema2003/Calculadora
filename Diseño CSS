@@ -1,0 +1,41 @@
+﻿html {
+    margen : 50 px ;
+    relleno : 0 ;
+    alinear texto : centro;
+}
+
+cuerpo {
+    imagen de fondo : url (fondo.png);
+    fuente : 100 ;
+    font-family : 'Viner Hand ITC' , cursiva;
+    relleno : 45 px ;
+}
+
+h1 {
+    tamaño de fuente : 60 px ;
+    color : # e98fd7 ;
+    font-weight : más audaz;
+    decoración de texto : parpadeo;
+}
+
+calculadora . png {
+    alinear texto : centro;
+    borde : 5 px blanco sólido;
+    radio de borde : 50 % ;
+}
+
+etiqueta {
+    color : # a37892 ;
+    font-weight : más audaz;
+    tamaño de fuente : 30 px ;
+}
+
+img {
+    altura : 200 px ;
+}
+
+li {
+    alinear texto : izquierda;
+    font-weight : más audaz;
+    tamaño de fuente : 30 px ;
+}
